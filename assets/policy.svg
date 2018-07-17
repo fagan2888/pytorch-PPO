@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320px" height="240px" viewBox="0 0 320 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>320x240</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="320x240" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#FF5D5D" x="102" y="67" width="117" height="117"></rect>
+        <text id="Policy" font-family="Avenir-Book, Avenir" font-size="24" font-weight="normal" fill="#FFFFFF">
+            <tspan x="129" y="131">Policy</tspan>
+        </text>
+        <text id="xi" font-family="Avenir-Book, Avenir" font-size="24" font-weight="normal" fill="#404040">
+            <tspan x="32" y="41">x</tspan>
+            <tspan x="43.568" y="41" font-size="14">i</tspan>
+        </text>
+        <text id="yi" font-family="Avenir-Book, Avenir" font-size="24" font-weight="normal" fill="#404040">
+            <tspan x="266" y="41">y</tspan>
+            <tspan x="277.568" y="41" font-size="14">i</tspan>
+        </text>
+        <rect id="Rectangle-2" stroke="#979797" x="24.5" y="63.5" width="30" height="30"></rect>
+        <rect id="Rectangle-2" stroke="#979797" x="24.5" y="93.5" width="30" height="30"></rect>
+        <rect id="Rectangle-2" stroke="#979797" x="24.5" y="153.5" width="30" height="30"></rect>
+        <rect id="Rectangle-2" stroke="#979797" x="24.5" y="123.5" width="30" height="30"></rect>
+        <text id="0.2" font-family="Avenir-Book, Avenir" font-size="14" font-weight="normal" fill="#000000">
+            <tspan x="30" y="84">0.2</tspan>
+        </text>
+        <text id="1.1" font-family="Avenir-Book, Avenir" font-size="14" font-weight="normal" fill="#000000">
+            <tspan x="30" y="114">1.1</tspan>
+        </text>
+        <text id="0.3" font-family="Avenir-Book, Avenir" font-size="14" font-weight="normal" fill="#000000">
+            <tspan x="30" y="144">0.3</tspan>
+        </text>
+        <rect id="Rectangle-2" stroke="#979797" x="258.5" y="91.5" width="30" height="30"></rect>
+        <rect id="Rectangle-2" stroke="#979797" x="258.5" y="121.5" width="30" height="30"></rect>
+        <text id="0.8" font-family="Avenir-Book, Avenir" font-size="14" font-weight="normal" fill="#000000">
+            <tspan x="264" y="112">0.8</tspan>
+        </text>
+        <text id="0.2" font-family="Avenir-Book, Avenir" font-size="14" font-weight="normal" fill="#000000">
+            <tspan x="264" y="142">0.2</tspan>
+        </text>
+        <text id="0.7" font-family="Avenir-Book, Avenir" font-size="14" font-weight="normal" fill="#000000">
+            <tspan x="30" y="174">0.7</tspan>
+        </text>
+        <path d="M66.5,79.5 L66.5,169.549986" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <path d="M67.5,122.5 L92.5,122.5" id="Line-2" stroke="#979797" stroke-linecap="square"></path>
+        <path id="Line-2-decoration-1" d="M81.7,125.5 L92.5,122.5 L81.7,119.5" stroke="#979797" stroke-linecap="square"></path>
+        <path d="M222.5,121.5 L247.5,121.5" id="Line-2" stroke="#979797" stroke-linecap="square"></path>
+        <path id="Line-2-decoration-1" d="M236.7,124.5 L247.5,121.5 L236.7,118.5" stroke="#979797" stroke-linecap="square"></path>
+    </g>
+</svg>
